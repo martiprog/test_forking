@@ -1,5 +1,8 @@
 def greet(name):
-	print(f"Hello {name}"}
+	print(f"Hello {name}")
 
 def add(a,b):
 	return a+b
+
+def sbstr(a,b):
+	return a-b
